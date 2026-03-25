@@ -9,7 +9,7 @@ La aplicación está diseñada para ofrecer una experiencia dinámica donde usua
 
 ## Demo
 
-[![Ver demo](https://img.youtube.com/shorts/lVxoGPh3P7c/0.jpg)](https://youtube.com/shorts/lVxoGPh3P7c)
+[![Ver demo](assets/images/demo-thumbnail.png)](https://youtube.com/shorts/lVxoGPh3P7c)
 
 ---
 
