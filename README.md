@@ -9,7 +9,12 @@ La aplicación está diseñada para ofrecer una experiencia dinámica donde usua
 
 ## Demo
 
-[![Ver demo](assets/images/demo-thumbnail.png)](https://youtube.com/shorts/lVxoGPh3P7c)
+Hacer clic en la imagen para ver demo
+<p align="center">
+  <a href="https://youtube.com/shorts/lVxoGPh3P7c">
+    <img src="assets/images/demo-thumbnail.jpg" alt="Demo" width="200"/>
+  </a>
+</p>
 
 ---
 
